@@ -1,0 +1,6 @@
+c:\users\1234\documents\visual studio 2015\Projects\Company HJer\Company HJer\obj\Debug\Company Hierarchy.csprojResolveAssemblyReference.cache
+c:\users\1234\documents\visual studio 2015\Projects\Company HJer\Company HJer\bin\Debug\Company HJer.exe.config
+c:\users\1234\documents\visual studio 2015\Projects\Company HJer\Company HJer\bin\Debug\Company HJer.exe
+c:\users\1234\documents\visual studio 2015\Projects\Company HJer\Company HJer\bin\Debug\Company HJer.pdb
+c:\users\1234\documents\visual studio 2015\Projects\Company HJer\Company HJer\obj\Debug\Company HJer.exe
+c:\users\1234\documents\visual studio 2015\Projects\Company HJer\Company HJer\obj\Debug\Company HJer.pdb
